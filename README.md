@@ -1,4 +1,4 @@
 # test-repo
-testing repo to demonstrate forking and pull requests
+testing repo to demonstrate forking and pull request
 
-this is mine
+Thorin Schmidt
